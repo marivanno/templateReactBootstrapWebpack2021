@@ -1,6 +1,5 @@
 # 🚀 This is a starter template for react + bootstrap development!
 
-<center>This project has been created using **webpack-cli**, you can now run</center>
 
 ![SCREEN](https://raw.githubusercontent.com/marivanno/templateReactBootstrapWebpack2021/master/src/img/img2.png)
 
